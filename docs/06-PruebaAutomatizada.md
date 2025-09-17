@@ -141,3 +141,23 @@ jobs:
     ![](../imagenes/76.png)
 
     ![](../imagenes/77.png)
+
+23. También puedes observar un resumen de resultados en el detalle del workflow de GitHub Actions.
+
+    ![](../imagenes/78.png)
+
+24. Los resultados están disponibles también como un artefacto descargable (un archivo zip) en la página de ejecución del workflow de GitHub Actions.
+
+    ![](../imagenes/79.png)
+
+25. Al descargar el archivo y descomprimirlo, aparecen reportes y resultados.
+
+    ![](../imagenes/80.png)
+
+26. El reporte contiene una página en formato HTML con visualizaciones, tablas, gráficas.
+
+    ![](../imagenes/81.png)
+
+27. El archivo de resultados contiene en formato CSV los registros de cada petición que fue parte de la prueba.
+
+    ![](../imagenes/82.png)
